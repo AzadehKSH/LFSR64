@@ -1,0 +1,25 @@
+timestamp=1452178556998
+
+[~A]
+ModifyID=5
+Version=73
+
+[lfsr]
+A/arch=21|./../src/lfsr64.vhd|39|1*0
+BinW64/arch=3*0
+I=0*540
+I/arch=0*1244
+M=11|2|vc1|1452178556795|./../src/lfsr64.vhd|0*205*0xf16340557016004ba8ef2bfa646be7c66ab6d45c|0*465*0x5eebbfaf24833dd780412b1f91e05209
+M/arch=21|2|vc1|1452178556797|./../src/lfsr64.vhd|0*638*0x80bbb196501520a5687acab1d40bb08e626ee761|0*1161*0x856b180bf611ec746a6bfcb1befebd18
+R=./../src/lfsr64.vhd|28
+Version=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|67159862c904ce7152a87fbb8a5dec602afd1c17363c5bc6dc3b5102d9c835d1
+Version/arch=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|907f1eb2ab5faaca81dadc47e735a03a2afd1c17363c5bc6dc3b5102d9c835d1
+
+[~MFT]
+0=6|0lfsr64.mgf|1244|0
+1=0|1lfsr64.mgf|0|0
+3=0|3lfsr64.mgf|0|0
+
+[~U]
+lfsr=11|0*0|
+

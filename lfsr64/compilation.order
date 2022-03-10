@@ -1,0 +1,2 @@
+.\src\lfsr64.vhd
+.\src\TestBench\lfsr_TB.vhd

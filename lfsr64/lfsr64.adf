@@ -1,0 +1,51 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=3
+Current Config=compile
+[Configurations]
+compile=lfsr64
+[Library]
+lfsr64=.\lfsr64\lfsr64.lib
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=Lattice ECP2
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+[LocalVhdlSets]
+CompileWithDebug=0
+[$LibMap$]
+lfsr64=.
+Active_lib=
+[Files]
+/lfsr64.vhd=-1
+/lfsr64.asdb=-1
+/lfsr64.awc=-1
+TestBench/lfsr_TB.vhd=-1
+TestBench/lfsr_TB_runtest.do=-1
+[Files.Data]
+.\src\lfsr64.vhd=VHDL Source Code
+.\src\lfsr64.asdb=Accelerated Waveform File
+.\src\lfsr64.awc=Accelerated Waveform Configuration
+.\src\TestBench\lfsr_TB.vhd=VHDL Test Bench
+.\src\TestBench\lfsr_TB_runtest.do=Macro
+[Groups]
+TestBench=1
+[SpecTracer]
+WindowVisible=0
+[HierarchyViewer]
+HierarchyInformation=lfsr|arch|0 
+ShowHide=ShowTopLevel
+Selected=
